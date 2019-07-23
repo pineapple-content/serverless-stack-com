@@ -38,4 +38,6 @@ Once you've completed the guide, you are probably going to use the Serverless St
 
 - [Netlify Docs](https://www.netlify.com/docs/): The official Netlify docs
 
+- [Using Serverless in Practice] https://buttercms.com/blog/what-is-serverless-and-how-to-use-it-in-practice
+
 If you have found any other guides or tutorials helpful in building your serverless app, feel free to edit this page and submit a PR. Or you can let us know via the comments.
